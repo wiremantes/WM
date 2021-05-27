@@ -29,7 +29,7 @@ const Home = () => {
     <>
       <Provider store={store}>
         <View style={styles.container}>
-          <Text>TEST</Text>
+          <Text>UPDATE</Text>
           <Text>{name}</Text>
           <StatusBar style="auto" />
         </View>
